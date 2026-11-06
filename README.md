@@ -1,4 +1,4 @@
-# Titanic: Machine Learning from Disaster 🚢
+# Titanic: Survival Prediction 🚢
 
 A complete, end-to-end machine learning pipeline built to predict passenger survival on the RMS Titanic. This project implements data preprocessing, targeted feature engineering, hyperparameter tuning, and cross-validation to generate robust, reproducible survival predictions.
 
